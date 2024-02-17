@@ -1,0 +1,25 @@
+h1{
+    background-color: rgba(216, 131, 216, 0.756);
+    color: aliceblue;
+    width: 1450px;
+    height: 100px;
+}
+body{
+    background-color: pink;
+}
+div{
+    background-color: rgba(180, 104, 130, 0.756);
+    color: aliceblue;
+    width: 500px;
+    height: 200px;
+    text-align-last: center;
+    align-items: center;
+    
+    
+}
+button{
+    background-color: rgba(255, 124, 155, 0.756);
+    color: aliceblue;
+    width: 200px;
+    height: 100px;
+}
